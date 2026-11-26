@@ -1,6 +1,6 @@
 ## Task 2.1 — Basic Terminal operations
 | Operation | Command |	What it does | Example observation |
-| ... | ... | ... | ... |
+| --- | --- | --- | --- |
 | Show current folder | pwd	| Prints the path of the folder Terminal is currently in | It showed my project folder’s path |
 | List files | ls |	Lists visible files and folders in the current folder | It showed the mission folders and README |
 | Detailed listing | ls -la | Shows details and hidden items too | It showed permissions, owners, sizes, and hidden entries |
@@ -25,4 +25,5 @@
 
 ## Task 2.4 Understand Package Managers
 
-Homebrew is a package manager for macOS that helps users to manage software from Terminal . It can install, update, and remove supported programs, and it can manage dependencies—other components a program needs in order to work . Homebrew provides commands for checking and managing software, which can make setup and maintenance easier . I checked whether Homebrew was available by running `brew --version` and viewed its installed . I did not install or uninstall anything . 
+Homebrew is a package manager for macOS that helps users to manage software from Terminal . It can install, update, and remove supported programs, and it can manage dependencies—other components a program needs in order to work . Homebrew provides commands for checking and managing software, which can make setup and maintenance easier . I checked whether Homebrew was available by running `brew --version` and viewed its installed . I did not install or uninstall anything .
+ 

@@ -42,6 +42,6 @@ I used `pwd` to check my current directory, then changed to the assignment folde
 - `mission-020task.md` - Contains the observations of all four tasks.
 
 ## 8. Commit details
-- Commit message: Complete Mission 2 Terminal practice
+- Commit message: Complete Terminal and file management mission
 - Branch: main
 - Pushed to GitHub: Yes
