@@ -23,10 +23,10 @@ Convert numbers between decimal, binary, and hexadecimal. Verify the conversions
 Decimal uses base 10, binary uses base 2, and hexadecimal uses base 16. Computers store information as bits, which have the values 0 or 1. Character encoding assigns numbers to characters so computers can store and exchange text.
 
 ## 5. Difficulties faced
-[Write a difficulty you actually had, or write “No major difficulties.”]
+I found it challenging to convert numbers between binary and hexadecimal and to understand the prefixes Python adds to its results. I also needed to understand how the converter uses the number entered by the user.
 
 ## 6. How I resolved them
-[Explain how you addressed the difficulty, or write “Not applicable.”]
+I worked through the place values for each number conversion and checked my answers with Python. I tested the converter with several positive numbers and learned that `[2:]` removes the `0b` or `0x` prefix from Python’s output.
 
 ## 7. Evidence / files
 - `mission-05-numbers-data/README.md` — conversion work, test results, and text-encoding explanation.
